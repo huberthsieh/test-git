@@ -1,2 +1,8 @@
 hello common
+<<<<<<< HEAD
 3345678 myself
+=======
+1 other
+2 other
+3 other
+>>>>>>> b23826c (add 123 in other branch)
